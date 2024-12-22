@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in TypeScript and its solution. The `bug.ts` file contains a function that expects two numbers as arguments, but in the main part of the file, a string is passed instead. This results in a type error. The `bugSolution.ts` file demonstrates how to resolve the issue by adding type guards to handle different data types.
